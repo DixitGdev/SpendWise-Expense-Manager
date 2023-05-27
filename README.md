@@ -1,7 +1,8 @@
 <h1 align="center">
-  SpendWise : Income and Expense Tracker [Link](https://dixitgdev.github.io/SpendWise-Expense-Manager/)
+  SpendWise : Income and Expense Tracker
 </h1>
 
+## [Link](https://dixitgdev.github.io/SpendWise-Expense-Manager/)
 
 ![SSSSSSS](https://github.com/DixitGdev/SpendWise-Expense-Manager/assets/51261247/4be5f6d4-6589-47d2-a5ef-d2db00b99474)
 
