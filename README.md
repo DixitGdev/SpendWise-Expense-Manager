@@ -1,19 +1,23 @@
-<img src="screnshoot.PNG" alt="Ui screenshot of the Money Paddy app">
-
 <h1 align="center">
-  Money Paddy : Income and Expense Tracker
+  SpendWise : Income and Expense Tracker
 </h1>
 
-Money paddy is a PWA that leverages on the power of indexed db, local storage, service workers and the manifest to function fully offline. It is a web app for tracking and logging income and expenses.
 
-## App Features
+![SSSSSSS](https://github.com/DixitGdev/SpendWise-Expense-Manager/assets/51261247/4be5f6d4-6589-47d2-a5ef-d2db00b99474)
 
-1. User can log an income or expense.
-2. Inputs are saved in indexeddb objectstores to persit data offline.
-3. User can delete logged income or expense.
-4. User can select a currency of their choice to log income or expense in.
-5. Users can opt in to receive push notifications or not.
-6. If users opt for push notifications, a push notification prompting the user to log an input is sent every 24     hours that the user goes without logging an expense.
+
+
+> ## "An investment in knowledge pays the best interest." - Benjamin Franklin
+
+- Welcome to SpendWise, a user-friendly application for managing and tracking your expenses. 
+- It's not about how much money you make, but how well you manage it. SpendWise is designed to empower you to take control of your finances.
+
+
+## Features 🚀
+- **Personal Dashboard:** View all your expenses at a glance. Categorize them into different buckets.
+- **Expense Logging:** Add new expenses easily with a simple and intuitive interface.
+- **Budgeting:** Set budget limits for different categories to avoid overspending.
+- **Reporting:** Visualize your spending patterns with simple and easy-to-understand graphs and charts.
 
 
 ##  To Clone
@@ -22,4 +26,20 @@ Money paddy is a PWA that leverages on the power of indexed db, local storage, s
 2. Install dependencies `npm install`
 3. Start app `npm run start`
 
-N.B : Remember to change firebase settings to your on account specifics at `functions/index.js`, and generate new VAPID keys. Didnt hide them cos i thought the code might be of help to understand.
+## Author : Dixit Ghodadara [(Github Profile)](https://github.com/DixitGdev)
+
+## Contributing
+
+We welcome contributions from the community. Whether it's a bug report, new feature, correction, or additional documentation, we greatly appreciate your help. Please ensure your pull request adheres to our contribution guidelines.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+If you have any questions, feel free to contact us. We appreciate your feedback!
+
+## Acknowledgements
+
+We would like to thank the open source community for their continuous support and inspiration. We are always learning and improving, thanks to you.
