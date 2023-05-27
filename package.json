@@ -1,7 +1,7 @@
 {
-  "name": "moneypaddy",
+  "name": "SpendWise",
   "version": "1.0.0",
-  "description": "An expense and income tracker built by Linda ikechukwu",
+  "description": "An expense and income tracker built by Dixit Ghodadara",
   "main": "app.js",
   "scripts": {
     "dev": "webpack --mode development",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Linda-Ikechukwu/MoneyPaddy.git"
+    "url": "git+https://github.com/DixitGdev/SpendWise-Expense-Manager.git"
   },
   "keywords": [
-    "Linda Ikechukwu",
+    "Dixit Ghodadara",
     "Income",
     "Tracker",
     "Expense",
@@ -21,12 +21,12 @@
     "PWA App",
     "Indexed DB"
   ],
-  "author": "Linda Ikechukwu",
+  "author": "Dixit Ghodadara",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Linda-Ikechukwu/MoneyPaddy/issues"
+    "url": "https://github.com/DixitGdev/SpendWise-Expense-Manager/issues"
   },
-  "homepage": "https://github.com/Linda-Ikechukwu/MoneyPaddy#readme",
+  "homepage": "https://github.com/DixitGdev/SpendWise-Expense-Manager/blob/main/README.md",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "cors": "^2.8.5",
