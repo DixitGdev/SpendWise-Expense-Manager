@@ -1,0 +1,38 @@
+{
+    "name": "Money Paddy",
+    "short_name":"MoneyPaddy",
+    "icons": [
+        {
+            "src":"./icons/48.png",
+            "type":"image/png",
+            "sizes":"48x48"
+        },
+        {
+            "src":"./icons/72.png",
+            "type":"image/png",
+            "sizes":"72x72"
+        },
+        {
+            "src":"./icons/96.png",
+            "type":"image/png",
+            "sizes":"96x96"
+        },
+        {
+            "src":"./icons/144.png",
+            "type":"image/png",
+            "sizes":"144x144"
+        },
+        {
+            "src":"./icons/192.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        }
+    ],
+    "start_url":"./index.html",
+    "scope":"./",
+    "display":"standalone",
+    "background_color":"#e9d10f",
+    "theme_color":"#3b4d61",
+    "description":"Keep track of your income and epenses for every month",
+    "gcm_sender_id": "103953800507"
+}
